@@ -1,1 +1,1 @@
-Print "Imprimir desde el navegador";;
+Print "Segundo codigo"
