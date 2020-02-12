@@ -1,5 +1,1 @@
-//texto agredado desde el navegador
-
-Hola esto es una prueba
-Nueva linea de codigo
-Nueva linea de cod 2
+Print "Imprimir desde el navegador";;
